@@ -287,6 +287,7 @@ handled in notebook section 2.3.7 by bounding carpet area to a plausible 100–2
 high-leverage rows.
 
 ## Screenshots
+![Uploading image.png…]()
 
 The running app: a form for entering property details, and a result page showing the estimated
 price in the ₹ Lac/Cr convention used across Indian real-estate listings.
