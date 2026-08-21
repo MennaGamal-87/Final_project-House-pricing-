@@ -1,0 +1,7 @@
+{
+  "model_name": "Random Forest (log-target)",
+  "target": "log",
+  "sklearn_version": "1.8.0",
+  "log_pred_min": 12.873904582205107,
+  "log_pred_max": 20.21244021484709
+}
